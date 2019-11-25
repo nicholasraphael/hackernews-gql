@@ -1,6 +1,10 @@
 # hackernews-gql
 
-Learning Graphql by implementing a graphql server in Django using Graphene and Graphene-django
+A toy backend of the popular site Hackernews.
+User can post, login, signup and vote on posts
+
+Used to learn Graphql by implementing a graphql server in Django using Graphene and Graphene-django
+
 
 ```
 python3.6 -m venv venv
