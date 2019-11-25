@@ -1,5 +1,7 @@
 # hackernews-gql
 
+Learning Graphql by implementing a graphql server in Django using Graphene and Greaphene-django
+
 ```
 python3.6 -m venv venv
 source venv/bin/activate
